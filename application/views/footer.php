@@ -1,5 +1,5 @@
 <footer>
-        <a href="http://wwww.SepatuSederhana.com">SepatuSederhana</a>
+        <a href="http://wwww.Sepatusederhana.com">SepatuSederhana</a>
     </footer>
     </div>
 </body>
